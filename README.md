@@ -6,13 +6,11 @@ You've made it! It's time to put away the Excel sheet and join the big leagues. 
 
 ## Before You Begin
 
-1. Create a new GitHub repo called `python-homework`. Then, clone it to your computer.
+1. In your local git repository, create a directory for both of the Python activities. Use folder names that correspond to the activities: **PyBank** and **PyRamen**.
 
-2. In your local git repository, create a directory for both of the Python activities. Use folder names that correspond to the activities: **PyBank** and **PyRamen**.
+2. In each folder you just created, add a new file called `main.ipynb`. Remember that to create this file you will need to use JupyterLab to correctly generate the .ipynb file format. This will be the main notebook to run for each analysis.
 
-3. In each folder you just created, add a new file called `main.ipynb`. Remember that to create this file you will need to use JupyterLab to correctly generate the .ipynb file format. This will be the main notebook to run for each analysis.
-
-4. Push the above changes to GitHub.
+3. Push the above changes to GitHub.
 
 ## PyBank (Required)
 
